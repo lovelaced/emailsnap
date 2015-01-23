@@ -8,6 +8,7 @@ Dependencies:
 * VLC
 * Thunderbird/Icedove
 * xbindkeys 
+* xdotool
 * ImageMagick (though you may not need it).
 
 You will have to edit both files to include the absolute path to the script and any individual image tweaks your webcam snap may need via Imagemagick.
